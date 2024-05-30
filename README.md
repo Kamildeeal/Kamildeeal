@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kamil Wojciak 
-- 🌱 I'm currently learning frontend development in React and much more.
-- 💞️ I’m looking for a job :).
+- 🌱 Junior frontend development in React and learning much more.
 - 📫 Mail me or conntact via LinkedIn.
 - ⚡ Fun fact: I've worked as a construction manager/civil engineer for a few years. 
 
