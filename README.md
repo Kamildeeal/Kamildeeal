@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kamil_Wojciak 
+- 👋 Hi, I’m Kamil Wojciak 
 - 🌱 I'm currently learning frontend development in React and much more.
 - 💞️ I’m looking for a job :).
 - 📫 Mail me or conntact via LinkedIn.
