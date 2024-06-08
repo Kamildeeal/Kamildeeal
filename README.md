@@ -21,10 +21,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="React Logo" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://worldvectorlogo.com/logo/nextjs-1.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
     
   </a>
   <a href="https://firebase.google.com/" target="_blank">
