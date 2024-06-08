@@ -3,7 +3,7 @@
 - 📫 Mail me or conntact via LinkedIn.
 - ⚡ Fun fact: I've worked as a construction manager/civil engineer for a few years.
 
- My skills
+ <h1 align="center">My skills</h1>
 <h1 align="center">
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="40" height="40"/>
@@ -21,10 +21,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="React Logo" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://worldvectorlogo.com/logo/nextjs-2" alt="Next.js Logo" width="40" height="40"/>
+    <img src="https://worldvectorlogo.com/logo/nextjs-1.svg" alt="Next.js Logo" width="40" height="40"/>
     
   </a>
   <a href="https://firebase.google.com/" target="_blank">
