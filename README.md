@@ -30,8 +30,11 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="30" height="30"/>
   </a>
-   <a href="https://www.figma.com/" target="_blank">
+  <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma Logo" width="30" height="30"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="30" height="30"/>
   </a>
 </h1>
 
