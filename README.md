@@ -31,7 +31,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="30" height="30"/>
   </a>
    <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma Logo" width="30" height="30"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma Logo" width="45" height="45"/>
   </a>
 </h1>
 
