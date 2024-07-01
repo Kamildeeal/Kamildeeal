@@ -15,6 +15,9 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS Logo" width="30" height="30"/>
   </a>
+ <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="30" height="30"/>
+  </a>
   <a href="https://styled-components.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="30" height="30"/>
   </a>
@@ -27,8 +30,8 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="30" height="30"/>
   </a>
- <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="30" height="30"/>
+   <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma Logo" width="30" height="30"/>
   </a>
 </h1>
 
