@@ -39,10 +39,12 @@
 </h1>
 
  <h3 align="center">Currently working on:</h3>
+ <div algin="center">
  - Redux Toolkit
  - GraphQL
  - Jest
  - React Testing Library 
+ </div>
 
 <!---
 Kamildeeal/Kamildeeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
