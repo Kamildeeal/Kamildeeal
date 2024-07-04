@@ -40,9 +40,9 @@
 
  <h4 align="center">Currently working on:
 <p>Redux Toolkit</p>
-GraphQL
-Jest
-React Testing Library 
+<p>GraphQL</p>
+<p>Jest</p>
+<p>React Testing Library</p> 
  </h4>
 
 
