@@ -39,7 +39,7 @@
 </h1>
 
  <h4 align="center">Currently working on:
- <p>{""}</p>
+ <p>⬇️</p>
 <p>Redux Toolkit</p>
 <p>GraphQL</p>
 <p>Jest</p>
