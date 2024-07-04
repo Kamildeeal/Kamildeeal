@@ -38,13 +38,12 @@
   </a>
 </h1>
 
- <h3 align="center">Currently working on:
-
- - Redux Toolkit
- - GraphQL
- - Jest
- - React Testing Library 
- </h3>
+ <h4 align="center">Currently working on:
+<p>Redux Toolkit</p>
+GraphQL
+Jest
+React Testing Library 
+ </h4>
 
 
 <!---
