@@ -1,5 +1,4 @@
 - 📫 Mail me or conntact via LinkedIn.
-- ⚡ I've worked as a construction manager/civil engineer for a few years.
 
  <h1 align="center">Technologies that I have worked with:</h1>
 <h1 align="center">
