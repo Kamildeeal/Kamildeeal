@@ -3,7 +3,7 @@
 ## 🚀 Technologies & Tools I've worked with: 
 
 ### Languages
-<p align="center">
+<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="40" height="40"/>
   </a>
@@ -13,14 +13,14 @@
 </p>
 
 ### Frontend Development
-<p align="center">
+<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native Logo" width="40" height="40"/>
   </a>
-    <a href="https://redux-toolkit.js.org/" target="_blank">
+  <a href="https://redux-toolkit.js.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Toolkit Logo" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
@@ -41,7 +41,7 @@
 </p>
 
 ### Backend & Database
-<p align="center">
+<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="40" height="40"/>
   </a>
@@ -51,7 +51,7 @@
 </p>
 
 ### Testing
-<p style="display: flex; justify-content: center; align-items: center;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="Jest Logo" width="70" height="70"/>
   </a>
@@ -61,12 +61,15 @@
 </p>
 
 ### Design & Collaboration
-<p align="center">
+<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma Logo" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.framer.com/motion/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion Logo" width="40" height="40"/>
   </a>
 </p>
 
