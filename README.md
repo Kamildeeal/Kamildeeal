@@ -51,7 +51,7 @@
 </p>
 
 ### Testing
-<p align="center" style="display: flex; justify-content: center;">
+<p style="display: flex; justify-content: center; align-items: center;">
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="Jest Logo" width="70" height="70"/>
   </a>
