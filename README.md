@@ -1,6 +1,6 @@
 # 🌐 Hi there! Welcome to My GitHub Profile
 
-## 🚀 Technologies & Tools
+## 🚀 Technologies & Tools I've worked with: 
 
 ### Languages
 <p align="center">
@@ -16,6 +16,12 @@
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native Logo" width="40" height="40"/>
+  </a>
+    <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Toolkit Logo" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js Logo" width="40" height="40"/>
@@ -39,18 +45,15 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="40" height="40"/>
   </a>
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL Logo" width="40" height="40"/>
+  <a href="https://www.axios.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/axios.svg" alt="Axios Logo" width="40" height="40"/>
   </a>
 </p>
 
 ### Testing
-<p align="center">
-  <a href="https://redux-toolkit.js.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Toolkit Logo" width="40" height="40"/>
-  </a>
+<p align="center" style="display: flex; justify-content: center;">
   <a href="https://jestjs.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="Jest Logo" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="Jest Logo" width="70" height="70"/>
   </a>
   <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
     <img src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library Logo" width="40" height="40"/>
@@ -73,7 +76,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kamildeeal&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamildeeal&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
