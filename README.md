@@ -3,7 +3,7 @@
 ## 🚀 Technologies & Tools I've worked with: 
 
 ### Languages
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="40" height="40"/>
   </a>
@@ -13,7 +13,7 @@
 </p>
 
 ### Frontend Development
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="40" height="40"/>
   </a>
@@ -41,7 +41,7 @@
 </p>
 
 ### Backend & Database
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="40" height="40"/>
   </a>
@@ -51,7 +51,7 @@
 </p>
 
 ### Testing
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="Jest Logo" width="70" height="70"/>
   </a>
@@ -61,7 +61,7 @@
 </p>
 
 ### Design & Collaboration
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma Logo" width="40" height="40"/>
   </a>
