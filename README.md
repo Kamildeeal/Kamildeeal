@@ -46,9 +46,8 @@
 <details>
 <summary>🔭 Click to explore my cosmic creations</summary>
 
-1. 🛰️ **My copy of twitter** - 
-2. 🌍 **EcoSystem Simulator** - 
-3. 👾 **Retro Game Emulator** - 
+1. 🌍 **E-commerce redux store** - [https://ecommerce-redux-app-kw95.vercel.app/](https://ecommerce-redux-app-kw95.vercel.app/)
+2. 🛰️ **My copy of twitter** - [https://educational-copy-of-twitter.vercel.app/](https://educational-copy-of-twitter.vercel.app/)
 
 </details>
 
