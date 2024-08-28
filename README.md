@@ -44,21 +44,22 @@
 ## 🌠 Stellar Projects
 
 <details>
-<summary>🔭 Click to explore my cosmic creations</summary>
+<summary>🔭 Click to explore my latest projects</summary>
 
-1. 🌍 **E-commerce redux store** - [https://ecommerce-redux-app-kw95.vercel.app/](https://ecommerce-redux-app-kw95.vercel.app/)
-2. 🛰️ **My copy of twitter** - [https://educational-copy-of-twitter.vercel.app/](https://educational-copy-of-twitter.vercel.app/)
+1. **Headless CMS & Next.JS blog** - [https://ks-tripstagram.vercel.app/](https://ks-tripstagram.vercel.app/)
+2. **E-commerce redux store** - [https://ecommerce-redux-app-kw95.vercel.app/](https://ecommerce-redux-app-kw95.vercel.app/)
+3. **My copy of twitter** - [https://educational-copy-of-twitter.vercel.app/](https://educational-copy-of-twitter.vercel.app/)
 
 </details>
 
-## 📊 Galactic Stats
+## 📊 GitHub charts
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamildeeal&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Kamildeeal&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
 </p>
 
-## 🌌 Connect Across the Cosmos
+## Find me here!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamil-wojciak-68bb54214/" target="_blank">
