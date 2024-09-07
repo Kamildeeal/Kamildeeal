@@ -47,7 +47,7 @@
 <summary>🔭 Click to explore my latest projects</summary>
 
 1. **Headless CMS & Next.JS blog** - [https://ks-tripstagram.vercel.app/](https://ks-tripstagram.vercel.app/)
-2. **E-commerce redux store** - [https://ecommerce-redux-app-kw95.vercel.app/](https://ecommerce-redux-app-kw95.vercel.app/)
+2. **E-commerce redux store** - [https://ecommerce-redux-app-kw.vercel.app/](https://ecommerce-redux-app-kw.vercel.app/)
 3. **My copy of twitter** - [https://educational-copy-of-twitter.vercel.app/](https://educational-copy-of-twitter.vercel.app/)
 
 </details>
